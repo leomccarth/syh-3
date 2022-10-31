@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://leomccarth.github.io/syh-3/sitemap.xml
